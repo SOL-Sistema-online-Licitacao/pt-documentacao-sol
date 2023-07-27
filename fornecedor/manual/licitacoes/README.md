@@ -7,21 +7,21 @@ Na aba "Licitações", acessível através do menu principal ou o clicar na pág
 ### Tipos de licitação
 
 {% hint style="info" %}
-### Aberta/pública
+#### Aberta/pública
 
 A licitação é pública e qualquer fornecedor pode enviar propostas. Assim que é aberta, ela fica disponível na página inicial do Fornecedor e também na página "Licitações".
 {% endhint %}
 
 {% hint style="success" %}
-### Convite aberto
+#### Convite aberto
 
 Como no caso anterior, qualquer Fornecedor pode participar da licitação, mas a Associação envia os convites diretos aos fornecedores específicos escolhidos por ela, que recebem uma notificação automática. Ao aceitar o convite, o Fornecedor passa a participar da licitação automaticamente.
 {% endhint %}
 
 {% hint style="danger" %}
-### Convite fechado
+#### Convite fechado
 
-As licitações da modalidade "Convite fechado" são visíveis apenas para os Fornecedores convidados pela Associação responsável. Não há outra maneira de ter acesso a essas licitações que não seja através do convite da Associação.&#x20;
+As licitações da modalidade "Convite fechado" são visíveis apenas para os Fornecedores convidados pela Associação responsável. Não há outra maneira de ter acesso a essas licitações que não seja através do convite da Associação.
 
 As únicas diferenças entre propostas enviadas para licitações de modalidade "Convite fechado" e de outras modalidades é que, neste caso, a proposta não poderá ser alterada após envio e, caso seja removida, o Fornecedor não poderá enviar uma nova proposta.
 {% endhint %}

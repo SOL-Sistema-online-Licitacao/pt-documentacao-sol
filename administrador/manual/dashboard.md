@@ -1,6 +1,6 @@
 # Dashboard
 
-<figure><img src="../../.gitbook/assets/Dashboard (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ao acessar a plataforma SOL, você é direcionado ao painel inicial do Sistema (Dashboard).
@@ -25,6 +25,8 @@ Nesta tela, você visualizará as abas disponíveis no menu principal:
   * Relatórios gerais
   * Relatórios gerados
 
-Ainda, você tem acesso ao seu perfil e às notificações do Sistema – representados pelos ícones de pessoa e de sino, respectivamente – além do mapa, com a indicação dos fornecedores com pontos na cor verde e das associações com pontos na cor azul. Acima do mapa, há três áreas, são elencados a quantidade de associações e de fornecedores cadastrados na plataforma e o número de licitações em andamento.
+Ainda, você tem acesso às notificações do Sistema – representados pelos ícone de sino, – além do mapa, com a indicação dos fornecedores com pontos na cor verde e das associações com pontos na cor azul.&#x20;
 
-No mapa, é possível clicar nos fornecedores e associações cadastrados. Ao clicar no ponto de um Fornecedor, você é direcionado a uma nova tela com as suas respectivas informações.
+Acima do mapa, há três indicadores, são elencados a quantidade de associações e de fornecedores cadastrados na plataforma e o número de licitações em andamento.
+
+No mapa, é possível clicar nos fornecedores e associações cadastrados. Ao clicar no ponto de um Fornecedor ou Associação, você é direcionado a uma nova tela com as suas respectivas informações.

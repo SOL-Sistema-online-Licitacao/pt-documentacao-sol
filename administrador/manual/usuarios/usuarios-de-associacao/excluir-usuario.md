@@ -4,7 +4,7 @@
 
 Para excluir algum usuário cadastrado, basta clicar no ícone de exclusão (lixeira) disponível ao lado do nome do perfil na lista disponível na aba "Usuários".
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Então, o sistema exibirá um modal de confirmação, basta clicar em **`Excluir`** e aquele usuário será removido do sistema.
 

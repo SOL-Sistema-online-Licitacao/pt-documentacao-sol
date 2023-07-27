@@ -8,7 +8,7 @@
 * [Manual](administrador/manual/README.md)
   * [Controle de acesso](administrador/manual/controle-de-acesso.md)
   * [Dashboard](administrador/manual/dashboard.md)
-  * [Usuários](administrador/manual/usuarios/README.md)
+  * [Cadastro de Usuários](administrador/manual/usuarios/README.md)
     * [Usuários de Associação](administrador/manual/usuarios/usuarios-de-associacao/README.md)
       * [Cadastrar usuário](administrador/manual/usuarios/usuarios-de-associacao/cadastrar-usuario.md)
       * [Editar usuário](administrador/manual/usuarios/usuarios-de-associacao/editar-usuario.md)

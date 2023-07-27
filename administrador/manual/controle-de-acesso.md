@@ -2,15 +2,11 @@
 
 ## Entrar na plataforma
 
-O usuário cadastrado acessa a plataforma com o  e-mail e  senha.  Apenas o administrador da pode cadastrar novos usuários.
+O usuário cadastrado acessa a plataforma com o e-mail e senha. Apenas o administrador que pode cadastrar novos usuários.
 
-{% hint style="info" %}
-Link:
+Para acessar digite o seu e-mail e sua senha e clique no botão **Login**.
 
-
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Esqueci a senha
 
@@ -18,14 +14,14 @@ Para recuperar o acesso clique na tela de Login em **`Esqueceu a senha?`**
 
 Informe o e-mail cadastrado e clique em **`Continuar.`**
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Você vai receber um código para validar o seu e-mail. Informe o código e clique em **`Continuar.`**
+Você vai receber um código no seu e-mail. Informe o código e clique em **`Continuar.`**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Com o código validado crie uma nova senha e confirme a nova senha. Clique em **`Continuar.`**
+Com o código validado crie uma nova senha e confirme a nova senha. Clique em **`Confirmar.`**
 
 Pronto, agora você pode entrar com sua nova senha!
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
