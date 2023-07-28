@@ -8,6 +8,4 @@ Para editar informações de algum usuário cadastrado, basta clicar no ícone d
 
 Então, altere as informações que precisar e clique no botão \*\*`Salvar.`\*\*As alterações serão salvas e o perfil será atualizado na lista de usuários.
 
-
-
-<figure><img src="../../../../.gitbook/assets/Editar usuário (associação).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
