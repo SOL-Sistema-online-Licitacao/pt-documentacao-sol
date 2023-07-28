@@ -4,6 +4,9 @@
 
 Para excluir algum item de custo cadastrado, basta clicar no ícone de exclusão (lixeira) disponível ao lado do nome do item na lista disponível na aba "Itens de Custo".
 
-<figure><img src="../../../.gitbook/assets/Excluir item de custo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Então, o sistema exibirá um modal de confirmação, basta clicar em **`Excluir`** e aquele item será removido do sistema.
+
+<figure><img src="../../../.gitbook/assets/Excluir item de custo.png" alt=""><figcaption></figcaption></figure>
+
