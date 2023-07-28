@@ -2,12 +2,10 @@
 
 ## Entrar na plataforma
 
-O usuário cadastrado acessa a plataforma com o  e-mail já cadastrado e a senha.  Apenas o administrador pode cadastrar novos usuários.
+O usuário cadastrado acessa a plataforma com o e-mail já cadastrado e a senha. Apenas o administrador pode cadastrar novos usuários.
 
 {% hint style="info" %}
 Link:
-
-
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
@@ -22,7 +20,7 @@ Informe o e-mail cadastrado e clique em **`Continuar.`**
 
 Você vai receber um código para validar o seu e-mail. Informe o código e clique em **`Continuar.`**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Com o código validado agora crie uma nova senha e confirme a nova senha. Clique em **`Continuar.`**
 
