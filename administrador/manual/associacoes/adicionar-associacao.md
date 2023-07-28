@@ -2,8 +2,11 @@
 
 ### Como adicionar uma nova associação?
 
-Para adicionar uma nova Associação ao Sistema, basta clicar no botão **`Nova Associação`**. Depois, basta preencher os campos solicitados.
+Para adicionar uma nova Associação ao Sistema, basta clicar no botão **`Nova Associação`**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Adicionar Nova Associação.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-Após preencher todos os campos, basta clicar em **`Criar associação`**.
+Depois, basta preencher os campos solicitados. Após preencher todos os campos, basta clicar em **`Criar associação`**.
+
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
