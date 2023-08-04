@@ -1,10 +1,10 @@
 # Dashboard
 
-<figure><img src="../../../.gitbook/assets/Dashboard (2).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 Ao acessar a plataforma SOL, você é direcionado ao painel inicial do Sistema (Dashboard).
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/dash-asso.png" alt=""><figcaption></figcaption></figure>
 
 Nesta tela de início, você visualizará o panorama geral do seu perfil: suas informações pessoais e as últimas licitações abertas. Além disso, na página inicial é possível criar uma licitação clicando no botão **`Nova licitação`**.
 

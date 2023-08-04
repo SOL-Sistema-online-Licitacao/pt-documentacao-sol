@@ -2,7 +2,7 @@
 
 Na página "Detalhes do convênio", é apresentada a lista de grupos e itens do plano de trabalho do convênio. Eles são organizados em grupos segundo as categorias de produtos ou serviços.
 
-<figure><img src="../../../.gitbook/assets/Usuários de Convênios (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dado-conv (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Como ver os detalhes de um grupo de itens?
 

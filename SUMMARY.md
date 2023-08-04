@@ -83,7 +83,6 @@
   * [Licitações](fornecedor/manual/licitacoes/README.md)
     * [Enviar proposta](fornecedor/manual/licitacoes/enviar-proposta.md)
     * [Atualizar proposta](fornecedor/manual/licitacoes/atualizar-proposta.md)
-    * [Remover proposta](fornecedor/manual/licitacoes/remover-proposta.md)
     * [Proposta aceita/recusada](fornecedor/manual/licitacoes/proposta-aceita-recusada.md)
     * [Baixar edital](fornecedor/manual/licitacoes/baixar-edital.md)
   * [Contratos](fornecedor/manual/contratos/README.md)

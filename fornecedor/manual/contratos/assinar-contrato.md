@@ -10,8 +10,6 @@ Para conferir os detalhes do contrato ou assiná-lo, clique sobre ele. A página
 
 Caso o Fornecedor não tenha nenhum problema em relação às quantidades e prazos exigidos no contrato, deve clicar em **`Aceitar`**. Com isso, estará assinando digitalmente o contrato.
 
-<figure><img src="../../../.gitbook/assets/Contrato (assinado) (1).png" alt=""><figcaption></figcaption></figure>
-
 Ao clicar em **`Aceitar`** na página acima exibida, O Sistema solicitará que você confirme a ação. A situação do contrato será atualizada para "Assinado".
 
 ### Recusar contrato

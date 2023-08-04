@@ -1,8 +1,8 @@
 # Licitações
 
-Na aba "Licitações", acessível através do menu principal ou o clicar na página inicial do Sistema, você é direcionado à aba “Licitação", você pode ver uma lista com todas as licitações cadastradas no Sistema, mesmo as já concluídas.
+Na aba "Licitações", acessível através do menu principal ou o clicar na página inicial do Sistema, você é direcionado à aba “Licitação", você pode ver uma lista com todas as licitações em que o fornecedor esta participando, mesmo as já concluídas.
 
-<figure><img src="../../../.gitbook/assets/Licitações (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-forn.png" alt=""><figcaption></figcaption></figure>
 
 ### Tipos de licitação
 
@@ -30,4 +30,4 @@ As únicas diferenças entre propostas enviadas para licitações de modalidade 
 
 Para acessar as informações completas sobre uma licitação, basta clicar em uma licitação na página inicial do Sistema ou na área de licitações.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Cancelada).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dado-licit-forn.png" alt=""><figcaption></figcaption></figure>
