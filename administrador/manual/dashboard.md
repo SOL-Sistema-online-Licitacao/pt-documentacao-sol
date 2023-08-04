@@ -1,10 +1,10 @@
 # Dashboard
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 Ao acessar a plataforma SOL, você é direcionado ao painel inicial do Sistema (Dashboard).
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/dash.png" alt=""><figcaption></figcaption></figure>
 
 Nesta tela, você visualizará as abas disponíveis no menu principal:
 
@@ -15,9 +15,15 @@ Nesta tela, você visualizará as abas disponíveis no menu principal:
   * Administração
 * **Associações**
 * **Fornecedores**
-* **Itens de custo**
+* **Itens**
+  * Itens de custo
+  * Produtos
+  * Categorias
+* Administrar Sistema
+  * Modelos de Documento
+  * Integrações
+  * Definir horários
 * **Convênios**
-* **Integrações** _(Em desenvolvimento)_
 * **Licitações**
 * **Relatórios** _(Em desenvolvimento)_
   * Licitações
@@ -25,8 +31,6 @@ Nesta tela, você visualizará as abas disponíveis no menu principal:
   * Relatórios gerais
   * Relatórios gerados
 
-Ainda, você tem acesso às notificações do Sistema – representados pelos ícone de sino, – além do mapa, com a indicação dos fornecedores com pontos na cor verde e das associações com pontos na cor azul.&#x20;
+Ainda, você tem acesso ao seu perfil e às notificações do Sistema – representados pelos ícones de pessoa e de sino, respectivamente – além do mapa, com a indicação dos fornecedores com pontos na cor verde e das associações com pontos na cor azul. Acima do mapa, há três áreas, são elencados a quantidade de associações e de fornecedores cadastrados na plataforma e o número de licitações em andamento.
 
-Acima do mapa, há três indicadores, são elencados a quantidade de associações e de fornecedores cadastrados na plataforma e o número de licitações em andamento.
-
-No mapa, é possível clicar nos fornecedores e associações cadastrados. Ao clicar no ponto de um Fornecedor ou Associação, você é direcionado a uma nova tela com as suas respectivas informações.
+No mapa, é possível clicar nos fornecedores e associações cadastrados. Ao clicar no ponto de um Fornecedor, você é direcionado a uma nova tela com as suas respectivas informações.

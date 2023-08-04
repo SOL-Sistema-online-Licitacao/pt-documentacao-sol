@@ -1,9 +1,7 @@
 # Usuários de Fornecedores
 
-Para acessar a lista de usuários de fornecedores clique no menu lateral na opção **`Usuários`** e selecione **`Fornecedores.`**
+Para acessar a lista de usuários de fornecedores clique no menu lateral na opção **`Usuários`** e selecione **`Fornecedores.`**&#x20;
 
 A lista exibe as informações de Nome, E-mail, CPF/CNPJ e Associação. É possível fazer a busca por texto utilizando as informações da lista.
 
-<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
-
-Clicando na linha ou no ícone de visualizar você consegue abrir os detalhes  do fornecedor cadastrado para visualizar.&#x20;
+<figure><img src="../../../../.gitbook/assets/forn-çist-us.png" alt=""><figcaption></figcaption></figure>

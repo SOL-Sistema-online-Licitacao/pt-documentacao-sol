@@ -8,6 +8,6 @@ Cada grupo pode conter uma série de itens. Para adicioná-los, basta digitar as
 
 Então, basta selecionar o item que desejar, especificar quantidade, custo estimado e clicar em **`Adicionar`**. Repita essa operação quantas vezes for necessário para completar seu novo grupo de itens.
 
-<figure><img src="../../../../.gitbook/assets/novo grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/novo-grupo.png" alt=""><figcaption></figcaption></figure>
 
 Após preencher todos os campos, basta clicar em **`Criar grupo`**.

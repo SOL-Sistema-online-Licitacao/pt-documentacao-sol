@@ -4,8 +4,6 @@
 
 Para editar informações de alguma associação cadastrada, basta clicar no ícone de edição (lápis) disponível ao lado do nome da associação na lista disponível na aba "Associações".
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit-asso.png" alt=""><figcaption></figcaption></figure>
 
 Então, altere as informações que precisar e clique em **`Salvar`**. As alterações serão salvas e a associação será atualizada.
-
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>

@@ -11,7 +11,7 @@ Ao clicar em **Concluir licitação**, a Associação já está automaticamente 
 Caso o Fornecedor aceite e automaticamente assine o contrato, a Associação será notificada e a situação do contrato será atualizada para "Assinado".
 
 {% hint style="danger" %}
-#### Contrato recusado pelo fornecedor
+### Contrato recusado pelo fornecedor
 
 Quando a Associação conclui a licitação e o contrato é gerado, o Fornecedor escolhido recebe uma notificação. Nessa etapa, o contrato pode ser recusado por este usuário. Isto pode acontecer, por exemplo, caso a licitação fique aberta por muito tempo e, no momento em que o contrato é gerado, o fornecedor já não dispõe dos itens licitados. Neste caso, a Associação receberá uma notificação e a situação do contrato será atualizada na página "Contratos" para "Recusado".
 {% endhint %}

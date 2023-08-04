@@ -10,6 +10,6 @@ Para adicionar novos itens, basta digitar as três primeiras letras do item em q
 
 Então, basta selecionar o item que desejar, especificar quantidade, custo estimado e clicar em **`Adicionar`**. Repita essa operação quantas vezes for necessário para completar seu novo grupo de itens.
 
-<figure><img src="../../../../.gitbook/assets/Editar grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/edit-grupo.png" alt=""><figcaption></figcaption></figure>
 
 Após alterar as informações que precisar, clique em **`Salvar`**. As alterações serão salvas e o grupo será atualizado.
