@@ -4,8 +4,6 @@
 
 Ao acessar os detalhes de uma licitação cujo o status seja "Em análise", você pode clicar em **`Fracassar licitação`**.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Em analise).png" alt=""><figcaption></figcaption></figure>
-
 Você deverá preencher e descrever o motivo do fracasso.
 
 <figure><img src="../../../.gitbook/assets/Fracassar licitação.png" alt=""><figcaption></figcaption></figure>

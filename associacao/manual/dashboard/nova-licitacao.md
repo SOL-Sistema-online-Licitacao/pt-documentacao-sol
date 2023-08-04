@@ -2,7 +2,7 @@
 
 ### Como criar uma nova licitação?
 
-Para criar uma nova licitação, basta clicar no botão Criar licitação. Você será direcionado à tela "Nova Licitação", na qual deve preencher todas as informações solicitadas.
+Para criar uma nova licitação, basta clicar no botão Criar licitação. Você será direcionado à tela "Nova Licitação", na qual deve preencher todas as informações solicitadas em todas as etapas do cadastro.
 
 {% hint style="info" %}
 Classificação de licitação:
@@ -28,7 +28,17 @@ Modalidade da licitação:
 * **Convite fechado**: apenas fornecedores convidados conseguem visualizar ou participar da licitação. A Associação gerencia o convite apenas aos fornecedores que ela deseja que participem da licitação criada. Se o Fornecedor convidado optar por participar da licitação, deve enviar uma proposta que não poderá ser editada posteriormente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Adicionar Licitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step1-licit.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/step2-licit.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/step2-licit (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/step3-licit.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/step4-licit.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/step5-licit.png" alt=""><figcaption></figcaption></figure>
 
 Então, basta clicar em **`Criar licitação`** para que sua licitação seja criada como “Rascunho”.
 
