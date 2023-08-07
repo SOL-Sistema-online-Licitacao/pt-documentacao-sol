@@ -58,6 +58,7 @@
     * [Integração](administrador/manual/administrar-sistema/integracao/README.md)
       * [Forçar integração](administrador/manual/administrar-sistema/integracao/forcar-integracao.md)
       * [Editar integração](administrador/manual/administrar-sistema/integracao/editar-integracao.md)
+    * [Definir horario](administrador/manual/administrar-sistema/definir-horario.md)
   * [Licitações](administrador/manual/licitacoes/README.md)
     * [Liberar/Recusar licitação](administrador/manual/licitacoes/liberar-recusar-licitacao.md)
     * [Fracassar licitação](administrador/manual/licitacoes/fracassar-licitacao.md)
