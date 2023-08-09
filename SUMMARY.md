@@ -42,7 +42,7 @@
     * [Categorias](administrador/manual/itens/categorias/README.md)
       * [Adicionar categoria](administrador/manual/itens/categorias/adicionar-categoria.md)
       * [Editar categoria](administrador/manual/itens/categorias/editar-categoria.md)
-      * [Excluir item](administrador/manual/itens/categorias/excluir-item.md)
+      * [Excluir categoria](administrador/manual/itens/categorias/excluir-categoria.md)
   * [Convênios](administrador/manual/convenios/README.md)
     * [Grupo de itens](administrador/manual/convenios/grupo-de-itens/README.md)
       * [Adicionar grupo](administrador/manual/convenios/grupo-de-itens/adicionar-grupo.md)

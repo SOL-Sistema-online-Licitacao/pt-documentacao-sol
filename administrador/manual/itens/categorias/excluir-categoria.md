@@ -1,8 +1,8 @@
-# Excluir item
+# Excluir categoria
 
-### Como excluir um item?
+### Como excluir uma categoria?
 
-Para excluir algum item de custo cadastrado, basta clicar no ícone de exclusão (lixeira) disponível ao lado do nome do item na lista disponível na aba "Itens de Custo".
+Para excluir alguma categoria cadastrada, basta clicar no ícone de exclusão (lixeira) disponível ao lado do nome da categoria na lista disponível na aba "Categoria".
 
 <figure><img src="../../../../.gitbook/assets/del-cat.png" alt=""><figcaption></figcaption></figure>
 
