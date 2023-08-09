@@ -55,7 +55,7 @@
     * [Modelo de documentos](administrador/manual/administrar-sistema/modelo-de-documentos/README.md)
       * [Novo modelo](administrador/manual/administrar-sistema/modelo-de-documentos/novo-modelo.md)
       * [Atualizar modelo](administrador/manual/administrar-sistema/modelo-de-documentos/atualizar-modelo.md)
-    * [Integração](administrador/manual/administrar-sistema/integracao.md)
+    * [Integração](administrador/manual/administrar-sistema/integracao/README.md)
     * [Definir horario](administrador/manual/administrar-sistema/definir-horario.md)
   * [Licitações](administrador/manual/licitacoes/README.md)
     * [Liberar/Recusar licitação](administrador/manual/licitacoes/liberar-recusar-licitacao.md)

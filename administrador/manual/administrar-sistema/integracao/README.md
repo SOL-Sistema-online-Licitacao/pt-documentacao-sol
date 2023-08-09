@@ -4,13 +4,21 @@ Na aba "Integração", acessível através do menu principal no topo da página,
 
 O SOL verifica as informações do sistema que foi integrado e atualiza na base de dados as informações de Associação, Convênio e Itens de Custo.
 
-<figure><img src="../../../.gitbook/assets/integra (1).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Frequência de integração:
+
+Para agendar a tarefa de atualizar a base de dados na integraçao é utilizado uma expressão cron para criar a recorrência.
+
+[https://crontab.cronhub.io/](https://crontab.cronhub.io/)
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/integra (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como editar uma integração?&#x20;
 
 Para editar uma integração, basta clicar na edição disponível ao lado do nome da integração na lista da aba "Integrações".
 
-<figure><img src="../../../.gitbook/assets/edit-integr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/edit-integr.png" alt=""><figcaption></figcaption></figure>
 
 Em seguida, faça as alterações necessárias utilizando os endpoints e tokens validos, então clique em "Salvar". As alterações serão salvas e a integração será atualizada.
 
