@@ -8,7 +8,7 @@ Método **GET** para retornar a lista de associações.
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 

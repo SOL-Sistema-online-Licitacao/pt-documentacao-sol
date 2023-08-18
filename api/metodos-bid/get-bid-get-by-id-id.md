@@ -14,9 +14,9 @@ Método **GET** para retornar as informações da licitação passando o id da m
 
 Obrigatório o ID da licitação
 
-<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2 (1).png" alt=""><figcaption></figcaption></figure>
 

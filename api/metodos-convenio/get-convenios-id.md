@@ -10,8 +10,8 @@ Método **GET** para retornar as informações do convênio passando o id do mes
 
 Obrigatório o ID do convênio
 
-<figure><img src="../../.gitbook/assets/Screenshot_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_6 (1) (1).png" alt=""><figcaption></figcaption></figure>

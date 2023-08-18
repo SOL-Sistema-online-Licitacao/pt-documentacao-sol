@@ -12,9 +12,9 @@ Método **GET** para retornar uma lista de licitação com status lançada e abe
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_12 (1).png" alt=""><figcaption></figcaption></figure>
 

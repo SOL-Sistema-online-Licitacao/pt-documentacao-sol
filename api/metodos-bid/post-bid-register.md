@@ -45,5 +45,5 @@ Parâmetros de requisição **BODY** form-data:
 
 **Retorno 201:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_13 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,9 +12,9 @@ Método **GET** para retornar uma lista de licitações a qual o fornecedor loga
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_9 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_10 (1).png" alt=""><figcaption></figcaption></figure>
 
