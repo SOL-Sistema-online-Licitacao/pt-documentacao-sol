@@ -8,8 +8,8 @@ Método **GET** para retornar a lista de convênios para as associações.
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

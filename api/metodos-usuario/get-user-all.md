@@ -8,7 +8,7 @@ Método **GET** para retornar a lista de todos os usuários cadastrados.
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 

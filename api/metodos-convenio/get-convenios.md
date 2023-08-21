@@ -12,4 +12,4 @@ Método **GET** para retornar a lista de convênios.
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
