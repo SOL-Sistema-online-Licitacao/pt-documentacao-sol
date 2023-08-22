@@ -20,4 +20,4 @@ Parâmetros de requisição **BODY:**
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_6 (2).png" alt=""><figcaption></figcaption></figure>

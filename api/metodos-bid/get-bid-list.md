@@ -12,9 +12,9 @@ Método **GET** para retornar os lotes da licitação pelo id da licitação.
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 

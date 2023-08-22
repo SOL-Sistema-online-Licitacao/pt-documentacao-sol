@@ -14,9 +14,9 @@ Método **GET** para retornar as informações do usuário passando o id do mesm
 
 Obrigatório o ID do usuário
 
-<figure><img src="../../.gitbook/assets/Screenshot_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 

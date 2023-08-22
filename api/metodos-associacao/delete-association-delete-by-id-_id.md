@@ -14,7 +14,7 @@ Método **DELETE** para deletar a associação pelo id da mesma.
 
 Obrigatório o ID da licitação
 
-<figure><img src="../../.gitbook/assets/Screenshot_6 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_6 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 

@@ -14,9 +14,9 @@ Método **GET** para retornar a lista de usuários de um determinado fornecedor 
 
 Obrigatório o ID do fornecedor
 
-<figure><img src="../../.gitbook/assets/Screenshot_7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_8 (1) (1).png" alt=""><figcaption></figcaption></figure>
 

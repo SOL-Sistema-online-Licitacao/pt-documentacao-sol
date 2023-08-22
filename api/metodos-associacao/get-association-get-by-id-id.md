@@ -14,9 +14,9 @@ Método **GET** para retornar as informações da associação passando o id da 
 
 Obrigatório o ID da associação
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_4 (2) (1).png" alt=""><figcaption></figcaption></figure>
 

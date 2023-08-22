@@ -58,5 +58,5 @@ Parâmetros de requisição **BODY:**
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_5 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_5 (2) (1).png" alt=""><figcaption></figcaption></figure>
 

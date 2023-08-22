@@ -8,8 +8,8 @@ Método **GET** para retornar a lista de lotes das licitações.
 
 **Requisição**
 
-<figure><img src="../../.gitbook/assets/Screenshot_7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_7 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1 (3).png" alt=""><figcaption></figcaption></figure>

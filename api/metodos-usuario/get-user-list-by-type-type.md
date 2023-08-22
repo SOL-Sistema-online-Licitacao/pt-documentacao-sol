@@ -14,9 +14,9 @@ Método **GET** para retornar a lista de usuários passando o tipo do mesmo.
 
 Obrigatório informar o tipo do usuário
 
-<figure><img src="../../.gitbook/assets/Screenshot_9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_9 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_10 (1).png" alt=""><figcaption></figcaption></figure>
 

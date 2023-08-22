@@ -14,9 +14,9 @@ Método **GET** para retornar as informações do item de custo passando o id do
 
 Obrigatório o ID do item
 
-<figure><img src="../../.gitbook/assets/Screenshot_3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_3 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
-<figure><img src="../../.gitbook/assets/Screenshot_4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_4 (3) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -10,7 +10,7 @@ Método **GET** para retornar os lotes de uma licitação através do ID da mesm
 
 ID dalicitação é obrigatorio
 
-<figure><img src="../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Retorno 200:**
 
